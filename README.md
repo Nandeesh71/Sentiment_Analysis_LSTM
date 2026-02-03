@@ -42,4 +42,4 @@ conda install -c conda-forge tensorflow keras pytorch nltk spacy transformers
 ```bash
 git clone https://github.com/Nandeesh71/Sentiment_Analysis_LSTM.git
 
-cd MLE-Neural-Hub
+cd Sentiment_Analysis_LSTM
